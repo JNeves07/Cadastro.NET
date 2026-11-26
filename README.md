@@ -1,4 +1,4 @@
-# Trabalho Marcos — Sistema de Cadastro de Usuários
+# Cadastro.NET
 
 Refatoração de um pequeno projeto de console (cadastro de usuários sem banco de dados) para uma solução **C# / .NET 10** organizada em camadas, com validação de domínio, value objects, abstração de persistência, testes automatizados e integração contínua.
 
@@ -28,7 +28,7 @@ Os arquivos originais foram preservados integralmente em [`docs/original/`](docs
 ## Arquitetura
 
 ```text
-trabalhomarcosjm/
+Cadastro.NET/
 ├── docs/
 │   └── original/                       # código-fonte original preservado
 ├── src/
